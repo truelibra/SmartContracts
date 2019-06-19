@@ -17,7 +17,7 @@ import "./RescueToken.sol";
 /**
 @dev By the moment, the Owner address is the msg.sender
  */
-contract TrueCLP is ERC20Detailed, ERC20Burnable, ERC20Pausable, RescueToken {
+contract trueLibra is ERC20Detailed, ERC20Burnable, ERC20Pausable, RescueToken {
 
     constructor(
         string memory name,

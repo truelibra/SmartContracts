@@ -1,5 +1,5 @@
 {
-  "name": "trueclp",
+  "name": "truelibra",
   "version": "0.0.1",
   "description": "Chilean peso token",
   "main": "truffle-config.js",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TrueCLP/Smartcontract.git"
+    "url": "git+https://github.com/trueLibra/Smartcontract.git"
   },
   "keywords": [
     "token",
@@ -32,9 +32,9 @@
   "author": "vultursolutions",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TrueCLP/Smartcontract/issues"
+    "url": "https://github.com/trueLibra/Smartcontract/issues"
   },
-  "homepage": "https://github.com/TrueCLP/Smartcontract"
+  "homepage": "https://github.com/trueLibra/Smartcontract"
 }
 
 

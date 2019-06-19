@@ -1,9 +1,9 @@
-const TrueCLP = artifacts.require("./TrueCLP.sol");
+const trueLibra = artifacts.require("./trueLibra.sol");
 
-contract("TrueCLP MasterMinter", accounts => {
+contract("trueLibra MasterMinter", accounts => {
 
     beforeEach(async() => {
-        instance = await TrueCLP.deployed();
+        instance = await trueLibra.deployed();
     });
 
     /* Mintable functions*/

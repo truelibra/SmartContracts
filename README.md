@@ -1,11 +1,8 @@
-## TrueCLP
+## TrueLibra
 
-Token de la red de Tron y Ethereum que representa el peso Chileno.
+TrueLibra is an stable token of Libra from Facebook to Ethereum and TRON chain.
 
 
 
-### Aplicación de prueba
-
-Para conocer el funcionamiento en la red visita: [documentation](https://trueclp.github.io/Smartcontract/) en la red ropsten.
 
 

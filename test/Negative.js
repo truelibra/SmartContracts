@@ -1,9 +1,9 @@
-const TrueCLP = artifacts.require("./TrueCLP.sol");
+const trueLibra = artifacts.require("./trueLibra.sol");
 
-contract("TrueCLP Negative", accounts => {
+contract("trueLibra Negative", accounts => {
 
     beforeEach(async() => {
-        instance = await TrueCLP.deployed();
+        instance = await trueLibra.deployed();
     });
 
     describe("Minter Functions", () => {

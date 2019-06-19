@@ -1,9 +1,9 @@
-const TrueCLP = artifacts.require("./TrueCLP.sol");
+const trueLibra = artifacts.require("./trueLibra.sol");
 
-contract("TrueCLP Positive", accounts => {
+contract("trueLibra Positive", accounts => {
 
     beforeEach(async() => {
-        instance = await TrueCLP.deployed();
+        instance = await trueLibra.deployed();
     });
 
     /* Here starts the action */
